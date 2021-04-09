@@ -12,9 +12,9 @@ Cara instal tools
 
 - python2 wp.py
 
-[+] target.com/wp-login.php
-[+] Username
-[+] List.txt
+-[+] target.com/wp-login.php
+-[+] Username
+-[+] list.txt
 
 
 
